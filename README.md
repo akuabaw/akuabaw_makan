@@ -17,6 +17,8 @@
 
 </div>
 
+![snake gif](https://github.com/akuabaw/akuabaw/blob/output/github-contribution-grid-snake-dark.svg)
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharsaja&layout=compact&theme=dracula" />
 </p>
